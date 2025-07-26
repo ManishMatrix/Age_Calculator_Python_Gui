@@ -19,3 +19,5 @@ Then, we create a `Label` area that will display the age of the user as output i
 ## Step 5:
 Then, we are going to create a button for users to submit their input values. We link the button to the `ageCalc` function.
 Finally, let’s run everything inside the window using the `mainloop()` method.
+
+Also users should have Python3 installed in their terminal or PC.
